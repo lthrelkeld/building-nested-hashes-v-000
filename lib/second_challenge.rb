@@ -1,7 +1,6 @@
 def second_challenge
   epic_tragedy = {
-    epic_tragedy = {
-      montague: {
+    montague: {
         #patriarch: {},
         #matriarch: {},
         #hero: {},
@@ -14,7 +13,4 @@ def second_challenge
         #heroine_friends: {}
       }
     }
-  }
-
-
 end
